@@ -1,2 +1,2 @@
 # Resale-prices-of-used-cars-using-Python
-Python Project
+Extracted and organized data for comprehensive analysis. Converted categorical variables into numerical and vice versa to facilitate data modeling. Utilized Matplotlib to create visualizations, including plots illustrating the relationship between engine size and price, among other factors. Employed the heatmap function in Matplotlib to identify correlations within the dataset.
